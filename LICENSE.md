@@ -30,7 +30,7 @@ that the public can reuse the material as expected. Licensors should
 clearly mark any material not subject to the license. This includes
 other CC-licensed material, or material used under an exception or
 limitation to copyright. More considerations for licensors :
-wiki.creativecommons.org/Considerations_for_licensors
+wiki.creativecommons.org/Considerations\_for\_licensors
 
 Considerations for the public: By using one of our public licenses, a
 licensor grants the public permission to use the licensed material under
@@ -45,7 +45,7 @@ licensor may make special requests, such as asking that all changes be
 marked or described. Although not required by our licenses, you are
 encouraged to respect those requests where reasonable. More
 considerations for the public :
-wiki.creativecommons.org/Considerations_for_licensees
+wiki.creativecommons.org/Considerations\_for\_licensees
 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 International Public License
