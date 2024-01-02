@@ -2,4 +2,4 @@
 
 The corporate image of CuerdOS.
 
-Atribution: CuerdOS Dev Team.
+Attribution: CuerdOS Dev Team.
